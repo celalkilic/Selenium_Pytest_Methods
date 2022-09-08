@@ -1,0 +1,240 @@
+1661970349995	geckodriver	INFO	Listening on 127.0.0.1:57376
+1661970353056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileiXRwwd"
+1661970353358	Marionette	INFO	Marionette enabled
+1661970353363	Marionette	INFO	Listening on port 57386
+WebDriver BiDi listening on ws://localhost:57377
+Read port: 57386
+1661970353448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileiXRwwd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57377/devtools/browser/57689408-9fcc-40e0-8158-bc73773c20c5
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1661970361427	Marionette	INFO	Stopped listening on port 57386
+1661970401071	geckodriver	INFO	Listening on 127.0.0.1:57420
+1661970404124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilevUmSx3"
+1661970404419	Marionette	INFO	Marionette enabled
+1661970404424	Marionette	INFO	Listening on port 57430
+WebDriver BiDi listening on ws://localhost:57421
+Read port: 57430
+1661970404509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilevUmSx3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57421/devtools/browser/a9c71f17-6e8b-45a9-a822-db26bc1dce6d
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1661970412491	Marionette	INFO	Stopped listening on port 57430
+1661976435468	geckodriver	INFO	Listening on 127.0.0.1:51571
+1661976438521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileGKIn3N"
+1661976438925	Marionette	INFO	Marionette enabled
+1661976438930	Marionette	INFO	Listening on port 51583
+WebDriver BiDi listening on ws://localhost:51572
+Read port: 51583
+1661976439034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileGKIn3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51572/devtools/browser/8a5d1401-d0c4-4482-a2f6-4dae8b0ce72c
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1661976447369	Marionette	INFO	Stopped listening on port 51583
+1662321084637	geckodriver	INFO	Listening on 127.0.0.1:54476
+1662321087709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileMJpZfP"
+1662321088171	Marionette	INFO	Marionette enabled
+1662321088176	Marionette	INFO	Listening on port 54487
+WebDriver BiDi listening on ws://localhost:54477
+Read port: 54487
+1662321088434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileMJpZfP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54477/devtools/browser/ef3faa72-c722-4dcb-8646-429c572b0780
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662321289515	Marionette	INFO	Stopped listening on port 54487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662580038546	geckodriver	INFO	Listening on 127.0.0.1:50907
+1662580041615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileVC11aY"
+1662580041937	Marionette	INFO	Marionette enabled
+1662580041941	Marionette	INFO	Listening on port 50920
+WebDriver BiDi listening on ws://localhost:50908
+Read port: 50920
+1662580042030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileVC11aY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50908/devtools/browser/93d8ae05-94d2-403f-85ff-41bc27d899d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1662580051525	Marionette	INFO	Stopped listening on port 50920
+1662580116234	geckodriver	INFO	Listening on 127.0.0.1:51028
+1662580119307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileZ5rg7X"
+1662580119666	Marionette	INFO	Marionette enabled
+1662580119671	Marionette	INFO	Listening on port 51038
+WebDriver BiDi listening on ws://localhost:51029
+Read port: 51038
+1662580119893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileZ5rg7X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51029/devtools/browser/1854bd9a-34a2-4065-98c8-ca0b62cd9a33
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580200320	Marionette	INFO	Stopped listening on port 51038
+1662580298268	geckodriver	INFO	Listening on 127.0.0.1:51341
+1662580301328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileoyaxV5"
+1662580301627	Marionette	INFO	Marionette enabled
+1662580301632	Marionette	INFO	Listening on port 51351
+WebDriver BiDi listening on ws://localhost:51342
+Read port: 51351
+1662580301721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileoyaxV5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51342/devtools/browser/81986213-c629-46d5-8b7e-f67dc345d3a5
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580343675	Marionette	INFO	Stopped listening on port 51351
+1662580344214	geckodriver	INFO	Listening on 127.0.0.1:51389
+1662580347259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilecsOoTs"
+1662580347541	Marionette	INFO	Marionette enabled
+1662580347546	Marionette	INFO	Listening on port 51399
+WebDriver BiDi listening on ws://localhost:51390
+Read port: 51399
+1662580347712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilecsOoTs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51390/devtools/browser/ba91723b-707a-4685-8f3a-1a28eacb2173
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yw/l/en_GB/G79S4wpQ6hy.js?_nc_x=Ij3Wp8lg5Kz, line 21: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://en-gb.facebook.com."
+1662580420310	Marionette	INFO	Stopped listening on port 51399
+1662580420869	geckodriver	INFO	Listening on 127.0.0.1:51446
+1662580423903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile893ReG"
+1662580424203	Marionette	INFO	Marionette enabled
+1662580424208	Marionette	INFO	Listening on port 51456
+WebDriver BiDi listening on ws://localhost:51447
+Read port: 51456
+1662580424293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile893ReG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51447/devtools/browser/468d1703-55a7-4e2b-a970-a890c715e288
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
+1662580579031	Marionette	INFO	Stopped listening on port 51456
+1662580579470	geckodriver	INFO	Listening on 127.0.0.1:51494
+1662580582497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile4Ad3Ex"
+1662580582785	Marionette	INFO	Marionette enabled
+1662580582790	Marionette	INFO	Listening on port 51505
+WebDriver BiDi listening on ws://localhost:51495
+Read port: 51505
+1662580582876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile4Ad3Ex\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51495/devtools/browser/16ae9828-c42d-411f-9f2d-6f750a802041
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580594777	Marionette	INFO	Stopped listening on port 51505
+1662580595322	geckodriver	INFO	Listening on 127.0.0.1:51528
+1662580598377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile9mUGcn"
+1662580598659	Marionette	INFO	Marionette enabled
+1662580598663	Marionette	INFO	Listening on port 51538
+WebDriver BiDi listening on ws://localhost:51529
+Read port: 51538
+1662580598765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofile9mUGcn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51529/devtools/browser/a9db17bd-e873-4361-9f5b-5788713d2453
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580639060	Marionette	INFO	Stopped listening on port 51538
+1662580639600	geckodriver	INFO	Listening on 127.0.0.1:51564
+1662580642654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilek9MHBJ"
+1662580642943	Marionette	INFO	Marionette enabled
+1662580642948	Marionette	INFO	Listening on port 51574
+WebDriver BiDi listening on ws://localhost:51565
+Read port: 51574
+1662580643041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilek9MHBJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51565/devtools/browser/5aa84d2a-c42f-4ade-88ef-742c21662d08
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580645826	Marionette	INFO	Stopped listening on port 51574
+1662580646386	geckodriver	INFO	Listening on 127.0.0.1:51591
+1662580649431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilebE1zpJ"
+*** You are running in headless mode.
+1662580649717	Marionette	INFO	Marionette enabled
+1662580649720	Marionette	INFO	Listening on port 51601
+WebDriver BiDi listening on ws://localhost:51592
+Read port: 51601
+1662580649869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofilebE1zpJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51592/devtools/browser/9945b88d-4fdf-4d8f-b192-1757ec7b4890
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662580656967	Marionette	INFO	Stopped listening on port 51601
+1662580657497	geckodriver	INFO	Listening on 127.0.0.1:51631
+1662580660569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "51632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileuMOOHN"
+*** You are running in headless mode.
+1662580660855	Marionette	INFO	Marionette enabled
+1662580660859	Marionette	INFO	Listening on port 51641
+WebDriver BiDi listening on ws://localhost:51632
+Read port: 51641
+1662580661007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zeyne\\AppData\\Local\\Temp\\rust_mozprofileuMOOHN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51632/devtools/browser/0e5cd5d7-43ea-4f72-a0f2-8a37d87298bf
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.hubspot.com."
